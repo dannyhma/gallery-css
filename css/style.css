@@ -111,11 +111,11 @@ h1 {
 	text-decoration: none;
 	background-color: #555;
 	border: 1px solid white;
-	line-height: 18px;
-	padding: 8px;
+	line-height: 10px;
+	padding: 10px;
 	opacity: 0;
-    border-radius: 100%;
-    box-shadow: 2px 2px 7px rgba(0,0,0,.5);
+    	border-radius: 50%;
+    	box-shadow: 2px 2px 7px rgba(0,0,0,.5);
 }
 
 .overlay:target .close {
